@@ -4,8 +4,8 @@ To conduct data cleaning, analysis, and visualization, we'll utilize Python, Jup
 
 Here's a brief overview of each component:
 1. Python: The programming language used for scripting and data manipulation tasks.
-2. Jupyter Notebook**: An interactive computing environment that allows for creating and sharing documents containing live code, equations, visualizations, and narrative text.
+2. Jupyter Notebook: An interactive computing environment that allows for creating and sharing documents containing live code, equations, visualizations, and narrative text.
 3. Pandas: A powerful library for data manipulation and analysis in Python, offering data structures and operations for manipulating numerical tables and time series.
 4. Matplotlib: A widely-used plotting library in Python for creating static, interactive, and animated visualizations.
-5. Seaborn: A statistical data visualization library based on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
+5. Seaborn: A statistical data visualization library based on Matplotlib, provides a high-level interface for drawing attractive and informative statistical graphics.
 By leveraging these tools, we can efficiently clean the data, perform insightful analysis, and create informative visualizations to uncover patterns and insights related to hotel cancellations. This process can help identify factors contributing to cancellation rates, enabling stakeholders to make informed decisions to address and mitigate such issues.
